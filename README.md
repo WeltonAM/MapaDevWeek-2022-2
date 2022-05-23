@@ -15,7 +15,7 @@ Este projeto foi desenvolvido no MapaDevWeek com [DevEmDobro](https://github.com
 
 
 
-## :tv: Acesse o Quizz
+## :tv: Acesse em:
 
-
+https://weltonam.github.io/MapaDevWeek-2022-2/
 
