@@ -1,4 +1,4 @@
-# Caracter Select
+# Character Select
 
 
 ## 🚀 As Tecnologias
